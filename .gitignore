@@ -1,0 +1,58 @@
+# Build directories
+build/
+out/
+cmake-build-*/
+bin/
+obj/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.user
+*.suo
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+
+# Debug / temporary files
+*.log
+*.tmp
+*.temp
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ROMs and copyrighted game data
+roms/
+*.gb
+*.gbc
+
+# Save files
+*.sav
+*.srm
+
+# Emulator runtime data
+screenshots/
+states/
